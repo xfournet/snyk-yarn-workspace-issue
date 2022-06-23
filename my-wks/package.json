@@ -1,0 +1,7 @@
+{
+  "name": "my-wks",
+  "private": true,
+  "dependencies": {
+    "window-classlist": "0.0.4"
+  }
+}
